@@ -1,0 +1,16 @@
+{
+  "name": "nectour",
+  "version": "1.0.0",
+  "description": "Fetches the latest tour dates for Bassnectar.",
+  "main": "nectour.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "VZip",
+  "license": "UNLICENSED"
+}
